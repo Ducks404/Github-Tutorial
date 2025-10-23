@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Write your names here as practice: Aatik
-=======
-Write your names here as practice:
 Yumna
->>>>>>> 6cc37eceb50d01be700e7a44f5f80a4ca76f06b2
